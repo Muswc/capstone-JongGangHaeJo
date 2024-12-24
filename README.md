@@ -60,7 +60,7 @@
 - RESTful API 통신
 
 ## 프로젝트 구조
-
+```
 ├── main/
 │   ├── java/
 │   │   └── jeiu/capstone/jongGangHaejo/
@@ -71,3 +71,4 @@
 │   │       └── security/
 │   └── resources/
 │       └── application.yml
+```
