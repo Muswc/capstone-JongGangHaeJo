@@ -62,12 +62,12 @@
 ## 프로젝트 구조
 
 ├── main/
-│ ├── java/
-│ │ └── jeiu/capstone/jongGangHaejo/
-│ │ ├── config/
-│ │ ├── controller/
-│ │ ├── service/
-│ │ ├── repository/
-│ │ └── security/
-│ └── resources/
-│ └── application.yml
+│   ├── java/
+│   │   └── jeiu/capstone/jongGangHaejo/
+│   │       ├── config/
+│   │       ├── controller/
+│   │       ├── service/
+│   │       ├── repository/
+│   │       └── security/
+│   └── resources/
+│       └── application.yml
