@@ -1,5 +1,16 @@
 # 재능대학교 캡스톤 게시판 서비스
 
+<table>
+  <tr>
+    <td><img src="[1](https://github.com/user-attachments/assets/1f523fa9-dfbe-4c54-bb1a-710ef36c3cd5)" alt="메인 화면" width="400"/></td>
+    <td><img src="[2](https://github.com/user-attachments/assets/a129f5ec-7d06-4d75-992c-52ff38c5c9b0)" alt="작품 목록" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="[3](https://github.com/user-attachments/assets/0d16ea94-cb90-4108-b3d3-be3143e429c6)" alt="게시물 상세보기" width="400"/></td>
+    <td><img src="[4](https://github.com/user-attachments/assets/0ab6adcf-dd17-44c9-934e-ea69289f2b89)" alt="게시물 상세보기 하단" width="400"/></td>
+  </tr>
+</table>
+
 ## 소개
 대학교 캡스톤 프로젝트 전시를 위한 웹 플랫폼입니다. 학생들의 프로젝트 작품을 등록하고 공유할 수 있는 공간을 제공합니다.
 
